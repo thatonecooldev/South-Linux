@@ -1,3 +1,3 @@
 # South-Linux
-An Arch-based Linux distrubution "South Linux".
+An Arch-based Linux distribution "South Linux".
 Total rename coming!!!
